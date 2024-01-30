@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "ep_matomo_setup",
+      "hooks": {
+        "eejsBlock_scripts": "ep_matomo/index"
+      }
+    }
+  ]
+}

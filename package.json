@@ -1,0 +1,23 @@
+{
+  "name": "ep_matomo",
+  "version": "0.0.1",
+  "description": "Etherpad plugin for integration with Matomo (open source web analytics application)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brunobastosg/ep_matomo.git"
+  },
+  "author": {
+    "name": "Bruno Guimarães"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/brunobastosg/ep_matomo.git",
+  "keywords": [
+    "etherpad",
+    "plugin",
+    "matomo"
+  ]
+}
