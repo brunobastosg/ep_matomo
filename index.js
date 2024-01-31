@@ -9,7 +9,7 @@ if (settings.ep_matomo){
 }
 
 exports.eejsBlock_scripts = function (hookName, context, cb) {
-  if (siteId && host) {
+  if (siteId && hostname) {
     const matomoString = `
     <!-- Matomo -->
     <script>
